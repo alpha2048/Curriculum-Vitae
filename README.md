@@ -1,9 +1,11 @@
 # 職務経歴書
 
-[オープン職務経歴書](https://github.com/okoysm/Curriculum-Vitae-template)を参考にしました。
+[こちらのオープン職務経歴書](https://github.com/okoysm/Curriculum-Vitae-template)を参考にしました。
+
+公開設定に変更しました。
 
 ## 最終更新日
-2018/3/7
+2018/3/14
 
 ## 基本情報
 
