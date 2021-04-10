@@ -5,7 +5,7 @@
 公開設定に変更しました。
 
 ## 最終更新日
-2021/2/11
+2021/4/10
 
 ## 基本情報
 
@@ -13,9 +13,17 @@
 |---|-----|
 |Name|あるふぁ2048(アカウント名)|
 |Birth|1990/01/19|
-|Blog|非公開|
-|Twitter|非公開|
+|Blog|https://alpha2048.hatenablog.com/|
+|Twitter|-----|
 |Qiita|[https://qiita.com/alpha2048](https://qiita.com/alpha2048)|
+
+### StrengthsFinder
+
+1. [Deliberative - 慎重さ](https://www.gallup.com/cliftonstrengths/ja/253421/%E6%85%8E%E9%87%8D%E3%81%95-%E8%B3%87%E8%B3%AA.aspx)
+2. [Adaptability - 適応性](https://www.gallup.com/cliftonstrengths/ja/253391/%E9%81%A9%E5%BF%9C%E6%80%A7-%E8%B3%87%E8%B3%AA.aspx)
+3. [Restorative - 回復志向](https://www.gallup.com/cliftonstrengths/ja/253469/%E5%9B%9E%E5%BE%A9%E5%BF%97%E5%90%91-%E8%B3%87%E8%B3%AA.aspx)
+4. [Harmony - 調和性](https://www.gallup.com/cliftonstrengths/ja/253436/%E8%AA%BF%E5%92%8C%E6%80%A7-%E8%B3%87%E8%B3%AA.aspx)
+5. [Relator - 親密性](https://www.gallup.com/cliftonstrengths/ja/253463/%E8%A6%AA%E5%AF%86%E6%80%A7-%E8%B3%87%E8%B3%AA.aspx)
 
 ## スキル
 
@@ -25,10 +33,10 @@
 
 |レベル|言語|
 |---|-----|
-|結構書ける|Kotlin、Swift、Java、C++|
-|業務遂行できる|PHP、Javascript|
-|趣味|Python、Dart|
-|書くのがつらい|Objective-C|
+|結構書ける|Kotlin、Java、C++|
+|業務遂行できる|PHP、Javascript、Flutter(Dart)、Swift|
+|趣味|Python|
+|書くのがつらい|Objective-C、Ruby|
 
 #### 詳細
 
@@ -45,8 +53,8 @@
   - 経験：1年程度
   - フレームワーク → RxSwift、RxCocoaなど
 - Kotlin
-  - 経験：3年程度
-  - フレームワーク → RxKotlin、Retrofit、Google各種ライブラリ(AAC、Coroutine含む)、Glide、Spek、Mockk
+  - 経験：3〜4年程度
+  - フレームワーク → RxKotlin、Retrofit、Google各種ライブラリ(AAC、Coroutine含む)、Glide、Spek、Koin、Mockk
 - PHP
   - 経験：1年程度
   - フレームワーク → Larabel
@@ -56,8 +64,12 @@
 - Python
   - 趣味ではメインで使ってます。半年程度
   - Django、Tensorflow(Keras)は触ったことあり
+- Ruby
+  - 経験：1年程度
+  - フレームワーク → Rails
 - Flutter (Dart)
-  - 経験：半年程度
+  - 経験：1年程度
+  - フレームワーク → State Notifier
 
 ### 人語
 - 日本語
@@ -184,6 +196,7 @@
   - Androidリードエンジニアとして、レビュー担当、リリース作業や、施策を洗い出したりまとめる作業なども担当
 - バックエンド開発。言語はRails
 - その他、新規サービスのアプリ開発も担当。言語はFlutter
+- 現在週3勤務中
 
 ## 転職について
 
@@ -216,7 +229,7 @@
   - 前線で成果を上げているエンジニアに還元されること
   - お金は成長するためにも必要なので、しっかり出してほしい
 - エンジニアがストレスなく開発できる環境
-  - フレックスを導入し、機能している
+  - フレックスを導入し、機能している。コアタイムが早くない
   - リモートワークを柔軟に使うことができる
   - 比較的新しく性能の良いPCをメインで使用できる
   - SlackやGithubなどの仕事しやすいツールを使用している、必要があれば柔軟に取り込んでいく
