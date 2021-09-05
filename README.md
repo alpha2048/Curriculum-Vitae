@@ -5,7 +5,7 @@
 公開設定に変更しました。
 
 ## 最終更新日
-2021/7/30
+2021/9/5
 
 ## 基本情報
 
@@ -33,50 +33,62 @@
 
 |レベル|言語|
 |---|-----|
-|結構書ける|Kotlin、Java|
-|業務遂行できる|C++、PHP、Javascript、Flutter(Dart)、Swift|
+|結構書ける|Kotlin、Java、Flutter(Dart)|
+|業務遂行できる|C++、PHP、JavaScript、Swift|
 |書くのがつらい|Objective-C、Ruby|
 |趣味|Python|
 
 #### 詳細
 
+メイン
+
+- Kotlin、Java (Android)
+  - 経験：3〜4年程度
+  - ライブラリ、フレームワーク
+    - Google各種ライブラリ(AAC、Coroutine含む)
+    - Retrofit
+    - Rx
+    - Glide、Picasso
+    - Spek、Mockk
+    - Hilt、Koin
+- Flutter
+  - 経験：1年程度
+  - ライブラリ、フレームワーク
+    - State Notifier、Provider、Riverpod
+
+
+<details><summary>サブ</summary><div>
+
+- Swift、Objective-C (iOS)
+  - 経験：2〜3年程度
+  - ライブラリ、フレームワーク
+    - RxSwift、RxCocoaなど
+    - CoreData、CoreLocation、Core Bluetooth
 - C/C++
   - 経験：4年程度
-  - DirectX, Windows SDKでゲーム開発もやってました
-- Java
-  - 経験：3年程度
-  - フレームワーク → RxJava、Retrofit、Google各種ライブラリ、Picasso
-- Objective-C
-  - 経験：2年程度
-  - フレームワーク → CoreData、CoreLocation、Core Bluetooth
-- Swift
-  - 経験：1年程度
-  - フレームワーク → RxSwift、RxCocoaなど
-- Kotlin
-  - 経験：3〜4年程度
-  - フレームワーク → RxKotlin、Retrofit、Google各種ライブラリ(AAC、Coroutine含む)、Glide、Spek、Koin、Mockk
+  - ウォーターフォールでのシステム開発経験あり
+  - 大学時代にDirectX, Windows SDKでゲーム開発もやってました
 - PHP
   - 経験：1年程度
-  - フレームワーク → Laravel
+  - ライブラリ、フレームワーク → Laravel
 - JavaScript
   - 経験：半年程度
-  - フレームワーク → React/Redux、TypeScript、Flow
-- Python
-  - 趣味ではメインで使ってます。半年程度
-  - Django、Tensorflow(Keras)は触ったことあり
+  - ライブラリ、フレームワーク → React/Redux、TypeScript、Flow
 - Ruby
   - 経験：1年程度
   - フレームワーク → Rails
-- Flutter (Dart)
-  - 経験：1年程度
-  - フレームワーク → State Notifier、Provider
+- Python
+  - 趣味開発用
+  - Django、Tensorflow(Keras)は軽く触ったことあり
 
-### 人語
-- 日本語
-  - ネイティブ
-- 英語
-  - TOEIC400前後
-  - かんたんなメールのやり取り、聞き取りができる程度
+
+</div></details>
+
+
+### CI/CD
+
+CircleCI、Bitriseはある程度理解してます
+
 
 ### 開発環境
 - エディタ
@@ -84,21 +96,27 @@
     - アプリ開発以外はだいたいこれ+ターミナルです
   - Xcode、Android Studio
     - どちらも手動リリース経験あり
-    - CI/CDは理解、修正した経験はありますが、構築はやったことないです
   - Visual Studio Code
     - 部分的な確認/改修で使う他、メモ帳やMarkdownエディタとして
-- AWS
-  - Lambda、EC2、S3などを趣味開発で使った経験あり
 - コミュニケーションツール
   - Basecamp、Backlog、Slack、Miro、esa、Qiita Team、notion
 - デザインツール (触ったことあり)
   - InVision、Abstract、Sketch、Zeplin、Figma
 
 ### その他
+- AWS
+  - Lambda、EC2、S3などを趣味開発で使った経験あり
 - Alexa
   - Skill開発やAVSの実装など、それなりに経験あり
 - Qiita
   - 面白いと思ったことを実践したりしてます。上のリンクからどうぞ。
+
+### 人語
+- 日本語
+  - ネイティブ
+- 英語
+  - TOEIC400前後
+  - かんたんなメールのやり取り、聞き取りができる程度
 
 ### 資格
 
@@ -114,15 +132,6 @@
 - プルリクを綺麗に作る力
   - 差分を極力減らし、チームの心理的安全を高めることを意識しています
 
-## やったことはないが興味があるもの
-
-- AI、機械学習関連
-  - ディープラーニング
-  - 音声処理
-- ゲーム開発
-  - Unity
-  - サーバサイド開発
-
 ## 登壇歴、受賞歴、執筆歴
 
 ### LT
@@ -132,16 +141,53 @@
   - 初LT。ハンズオンチックにASKでmp3ファイルを鳴らしました。
   - [Qiita](https://qiita.com/alpha2048/items/aa30bfef89f3b8eaf029)にサンプル置いてます。
 
-## その他
+## 趣味
 
-### 同人活動
-
-- 音楽活動関連(エンジニアと全く関係ない(>_<;))
+- 音楽
   - ゲーム曲のアレンジを作って、CD出したりしてました。
-    最近はギターの腕を鍛えなおしています。
-  - ホームページは自作(非公開)
+  - ギター弾きます。
 
 ## 職務経歴
+
+### 2020/4 - 2021/7: 4社目 (ベンチャー)
+
+#### 美容系アプリ開発担当
+
+##### 業務内容
+- Android版アプリ開発。言語はJava、Kotlin
+  - Androidリードエンジニアとして、レビュー担当、リリース作業や、施策を洗い出したりまとめる作業なども担当
+- バックエンド開発。言語はRails
+- その他、新規サービスのアプリ開発も担当。言語はFlutter
+
+
+### 2019/6 - 2020/2: 3社目 (スタートアップ)
+
+#### コミュニケーションサービス開発担当
+
+##### 業務内容
+- Android版アプリ開発。言語はKotlin
+- iOS版アプリ開発。言語はSwift
+- バックエンド開発。言語はPHP (Larabel)
+- フロントエンド開発。HTML5 + CSS + Javascript (React)
+- 1週間のスクラムで開発を担当
+- 新規機能開発、既存機能改修、バグ修正などなんでも担当
+
+
+<details><summary>さらに古いの</summary><div>
+
+### 2018/5 - 2019/6: 2社目 (ベンチャー)
+
+#### SNSアプリ開発担当
+
+某GooglePlayStore ベストアプリの開発経験
+
+##### 業務内容
+- Android版アプリ開発。言語はJava (+ Kotlin)
+- iOS版アプリの開発も部分的に担当。言語はSwift
+- アジャイルで新機能開発、既存機能の改修をほぼ一人で担当
+- APIのデバッグなどQAも担当
+
+
 
 ### 2014/4 - 2018/5: 1社目 (大手カーナビメーカー)
 
@@ -164,39 +210,16 @@
 - Android版アプリ(委託開発)の仕様書設計、開発支援、受入検査。言語はJava
 - Web API(自社開発)のデバッグ。言語はPHP、HTML5/CSS/Javascript
 
-### 2018/5 - 2019/6: 2社目 (ベンチャー)
+</div></details>
 
-#### SNSアプリ開発担当
 
-某GooglePlayStore ベストアプリの開発経験
 
-##### 業務内容
-- Android版アプリ開発。言語はJava (+ Kotlin)
-- iOS版アプリの開発も部分的に担当。言語はSwift
-- アジャイルで新機能開発、既存機能の改修をほぼ一人で担当
-- APIのデバッグなどQAも担当
 
-### 2019/6 - 2020/2: 3社目 (スタートアップ)
 
-#### コミュニケーションサービス開発担当
 
-##### 業務内容
-- Android版アプリ開発。言語はKotlin
-- iOS版アプリ開発。言語はSwift
-- バックエンド開発。言語はPHP (Larabel)
-- フロントエンド開発。HTML5 + CSS + Javascript (React)
-- 1週間のスクラムで開発を担当
-- 新規機能開発、既存機能改修、バグ修正などなんでも担当
 
-### 2020/4 - 2021/7: 4社目 (ベンチャー)
 
-#### 美容系アプリ開発担当
 
-##### 業務内容
-- Android版アプリ開発。言語はJava、Kotlin
-  - Androidリードエンジニアとして、レビュー担当、リリース作業や、施策を洗い出したりまとめる作業なども担当
-- バックエンド開発。言語はRails
-- その他、新規サービスのアプリ開発も担当。言語はFlutter
 
 ## この先について
 
