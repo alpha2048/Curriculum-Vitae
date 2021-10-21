@@ -5,7 +5,7 @@
 公開設定に変更しました。
 
 ## 最終更新日
-2021/10/19
+2021/10/21
 
 ## 基本情報
 
@@ -52,7 +52,7 @@
     - Spek、Mockk
     - Hilt、Koin
 - Flutter
-  - 経験：1年程度
+  - 経験：半年〜1年程度
   - ライブラリ、フレームワーク
     - State Notifier、Provider、Riverpod
 
