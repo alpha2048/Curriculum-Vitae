@@ -5,7 +5,7 @@
 公開設定に変更しました。
 
 ## 最終更新日
-2022/2/23
+2022/3/27
 
 ## 基本情報
 
@@ -14,7 +14,6 @@
 |Name|alpha2048(あるふぁ)|
 |Birth|1990/01/19|
 |Blog|https://alpha2048.hatenablog.com/|
-|Twitter|-----|
 |Qiita|[https://qiita.com/alpha2048](https://qiita.com/alpha2048)|
 
 ### StrengthsFinder
@@ -48,7 +47,9 @@
     - Google各種ライブラリ(AAC、Coroutine含む)
     - Retrofit
     - Rx
-    - Glide、Picasso
+    - Jetpack Compose
+    - SQLite、Room
+    - Glide、Picasso、Coil
     - Spek、Mockk
     - Hilt、Koin
 - Flutter
@@ -80,15 +81,20 @@
 - Python
   - 趣味開発用
   - Django、Tensorflow(Keras)は軽く触ったことあり
-
+- Go
+  - 簡単なスクリプトが書ける程度
 
 </div></details>
 
 
 ### CI/CD
 
-CircleCI、Bitriseは構築、簡単な調整ができる程度は経験があります。Github Actionsも触ったことあり。
-
+- CircleCI
+  - 調整、デバッグができる程度
+- Bitrise
+  - 構築、調整、デバッグができる程度
+- Github Actions
+  - 調整ができる程度
 
 ### 開発環境
 - エディタ
@@ -126,6 +132,7 @@ CircleCI、Bitriseは構築、簡単な調整ができる程度は経験があ�
 
 ## 強み
 
+- マルチスタックな経験を持つ
 - 新しい技術、製品に興味を持ち、抵抗感なく触れるところ
 - 問題(バグ)を切り分け、解決することが得意
 - 雑な課題をまとめあげ形にする能力
@@ -139,6 +146,7 @@ CircleCI、Bitriseは構築、簡単な調整ができる程度は経験があ�
 - 大人数、複数人を率いた経験がない
 - アーリーマジョリティに寄ることが多いので、レガシーな環境を続ける文化には合わない
   - サービスを成長させることと技術投資のバランスが大事という考え
+- 堅苦しいコミュニケーションだと萎縮しがち
 
 ## 価値観
 
