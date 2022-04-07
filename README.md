@@ -55,7 +55,7 @@
 - Flutter
   - 経験：半年〜1年程度
   - ライブラリ、フレームワーク
-    - State Notifier、Provider、Riverpod、freezed
+    - State Notifier、Provider、Riverpod、dart_vlc、GetX
 
 
 <details><summary>サブ</summary><div>
