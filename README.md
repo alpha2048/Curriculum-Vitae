@@ -5,7 +5,7 @@
 公開設定に変更しました。
 
 ## 最終更新日
-2022/4/24
+2022/7/23
 
 ## 基本情報
 
@@ -15,6 +15,8 @@
 |Birth|1990/01/19|
 |Blog|https://alpha2048.hatenablog.com/|
 |Qiita|[https://qiita.com/alpha2048](https://qiita.com/alpha2048)|
+|Zenn|[https://zenn.dev/alpha2048)|
+|Mail|alpha2048.jp@gmail.com|
 
 ### StrengthsFinder
 
@@ -111,10 +113,12 @@
 
 ### その他
 - AWS
-  - Lambda、EC2、S3などを趣味開発で使った経験あり
+  - Lambda、S3、Fargateなどのサーバーレス構成の構築経験あり
+  - 趣味開発用でも使う
+  - 大規模な構築は不得意です。。
 - Alexa
   - Skill開発やAVSの実装など、それなりに経験あり
-- Qiita
+- ブログ、Qiita、Zenn
   - 面白いと思ったことを実践したりしてます。上のリンクからどうぞ。
 
 ### 人語
@@ -200,7 +204,7 @@
 
 ### 2021/8〜 フリーランス
 
-複数の会社でアプリ開発、Web開発などを担当中
+複数の会社でAndroid、Flutter開発の他、Webフロントエンド開発や機械学習、画像認識の開発なども担当中
 
 ### 2020/4 - 2021/7: 4社目 (ベンチャー)
 
