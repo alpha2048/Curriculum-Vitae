@@ -15,7 +15,7 @@
 |Birth|1990/01/19|
 |Blog|https://alpha2048.hatenablog.com/|
 |Qiita|[https://qiita.com/alpha2048](https://qiita.com/alpha2048)|
-|Zenn|[https://zenn.dev/alpha2048)|
+|Zenn|https://zenn.dev/alpha2048|
 |Mail|alpha2048.jp@gmail.com|
 
 ### StrengthsFinder
