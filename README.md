@@ -5,7 +5,7 @@
 公開設定に変更しました。
 
 ## 最終更新日
-2022/2/23
+2022/5/6
 
 ## 基本情報
 
@@ -14,8 +14,8 @@
 |Name|alpha2048(あるふぁ)|
 |Birth|1990/01/19|
 |Blog|https://alpha2048.hatenablog.com/|
-|Twitter|-----|
 |Qiita|[https://qiita.com/alpha2048](https://qiita.com/alpha2048)|
+|Zenn|[https://zenn.dev/alpha2048](https://zenn.dev/alpha2048)|
 
 ### StrengthsFinder
 
@@ -33,7 +33,7 @@
 
 |レベル|言語|
 |---|-----|
-|結構書ける|Kotlin、Java、Flutter(Dart)|
+|結構書ける|Flutter(Dart)、Kotlin、Java|
 |業務遂行できる|C++、PHP、JavaScript、Swift|
 |書くのがつらい|Objective-C、Ruby|
 |趣味|Python|
@@ -41,7 +41,12 @@
 #### 詳細
 
 メイン
-
+- Flutter
+  - 経験：3年程度
+  - テックリード対応可能
+  - ライブラリ、フレームワーク
+    - State Notifier、Provider、Riverpod v2、freezed
+  - CI/CD構築
 - Kotlin、Java (Android)
   - 経験：3〜4年程度
   - ライブラリ、フレームワーク
@@ -51,10 +56,9 @@
     - Glide、Picasso
     - Spek、Mockk
     - Hilt、Koin
-- Flutter
-  - 経験：半年〜1年程度
-  - ライブラリ、フレームワーク
-    - State Notifier、Provider、Riverpod、freezed
+  - Google Map対応
+  - Baseline Profiles対応
+
 
 
 <details><summary>サブ</summary><div>
@@ -87,8 +91,17 @@
 
 ### CI/CD
 
-CircleCI、Bitriseは構築、簡単な調整ができる程度は経験があります。Github Actionsも触ったことあり。
+Xcode Cloud対応可能です。  
+GitHub Actions、CircleCIの構築、調整ができます。  
+Bitriseは簡単な調整ができる程度は経験があります 
 
+### Cloud
+
+- AWS
+  - LambdaによるAPI構築
+  - docker composeのECSデプロイ対応
+  - HTTPS化
+  - など、基礎的なクラウド構築は対応可能です
 
 ### 開発環境
 - エディタ
@@ -96,6 +109,7 @@ CircleCI、Bitriseは構築、簡単な調整ができる程度は経験があ�
     - アプリ開発以外はだいたいこれ+ターミナルです
   - Xcode、Android Studio
     - どちらも手動リリース経験あり
+    - Xcode Cloud対応可能
   - Visual Studio Code
     - 部分的な確認/改修で使う他、メモ帳やMarkdownエディタとして
 - コミュニケーションツール
@@ -104,19 +118,16 @@ CircleCI、Bitriseは構築、簡単な調整ができる程度は経験があ�
   - InVision、Abstract、Sketch、Zeplin、Figma
 
 ### その他
-- AWS
-  - Lambda、EC2、S3などを趣味開発で使った経験あり
 - Alexa
   - Skill開発やAVSの実装など、それなりに経験あり
-- Qiita
-  - 面白いと思ったことを実践したりしてます。上のリンクからどうぞ。
 
 ### 人語
 - 日本語
   - ネイティブ
 - 英語
-  - TOEIC400前後
+  - TOEIC400前後(数年前)
   - かんたんなメールのやり取り、聞き取りができる程度
+  - 絶賛勉強中
 
 ### 資格
 
@@ -150,6 +161,7 @@ CircleCI、Bitriseは構築、簡単な調整ができる程度は経験があ�
 - チームを作る上での方針は「困りごとをなくす」
   - 困りごとをなくすために、1on1、デイリースクラム、times文化などで発信しやすい環境を作る
 - コーチングは「やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ」 (山本五十六)
+  - 相手のレベルに合わせコーチング(ティーチング)のやり方とフィードバックを柔軟に変えることが大事
 - 仕事だけに取り組むではなく、十分に休む、よく遊ぶ、趣味や自主活動に取り組むことも大事
 
 ## 興味・関心
@@ -157,13 +169,13 @@ CircleCI、Bitriseは構築、簡単な調整ができる程度は経験があ�
 基本的には自分がよく使うもの、自分事になれるサービス
 
 - 自分のパーソナルな部分に刺さるサービス
-  - SNS系
   - ゲーム、アニメ関連
   - 音楽系
 - シェアリングエコノミー関連
   - スキルシェアサービス
   - 宅配収納
   - デリバリーサービス
+  - サブスク
   - など
   
 ## 登壇歴、受賞歴、執筆歴
@@ -182,6 +194,7 @@ CircleCI、Bitriseは構築、簡単な調整ができる程度は経験があ�
   - ギター弾きます。
 - ゲーム
   - FPS系
+  - 音ゲー
   - レトロゲー(SFC〜64あたり)
 
 ## 職務経歴
