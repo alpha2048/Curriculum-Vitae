@@ -5,7 +5,7 @@
 公開設定に変更しました。
 
 ## 最終更新日
-2023/5/6
+2023/11/3
 
 ## 基本情報
 
@@ -17,6 +17,8 @@
 |Qiita|[https://qiita.com/alpha2048](https://qiita.com/alpha2048)|
 |Zenn|[https://zenn.dev/alpha2048](https://zenn.dev/alpha2048)|
 |Mail|alpha2048.jp@gmail.com|
+
+
 
 ### StrengthsFinder
 
@@ -42,11 +44,13 @@
 
 メイン
 - Flutter
-  - 経験：3年程度
+  - 経験：4年程度
   - テックリード対応可能
   - ライブラリ、フレームワーク
     - State Notifier、Provider、Riverpod v2、freezed、dart_vlc、GetX
   - CI/CD構築
+  - add-to-app対応可
+  - プラグイン作成、修正対応可
 - Kotlin、Java (Android)
   - 経験：4〜5年
   - ライブラリ、フレームワーク
@@ -58,13 +62,16 @@
     - Glide、Picasso、Coil
     - Spek、Mockk
     - Hilt、Koin
-  - Google Map対応
+  - Google Map導入対応
   - Baseline Profiles対応
-
-
 
 <details><summary>サブ</summary><div>
 
+- JavaScript
+  - 経験：2年程度
+  - ライブラリ、フレームワーク
+    - React、Next.js
+    - TypeScript
 - Swift、Objective-C (iOS)
   - 経験：2〜3年程度
   - ライブラリ、フレームワーク
@@ -77,9 +84,6 @@
 - PHP
   - 経験：1年程度
   - ライブラリ、フレームワーク → Laravel
-- JavaScript
-  - 経験：半年程度
-  - ライブラリ、フレームワーク → React/Redux、TypeScript、Flow、Next.js
 - Ruby
   - 経験：1年程度
   - フレームワーク → Rails
@@ -108,14 +112,15 @@
   - など、基礎的なクラウド構築は対応可能です
 
 ### 開発環境
-- エディタ
+- エディタ 
   - IntelliJ IDEA
     - アプリ開発以外はだいたいこれ+ターミナルです
   - Xcode、Android Studio
     - どちらも手動リリース経験あり
-    - Xcode Cloud対応可能
+    - Xcode Cloud対応可
   - Visual Studio Code
-    - 部分的な確認/改修で使う他、メモ帳やMarkdownエディタとして
+    - Flutter用のサブエディタ
+    - その他、部分的な改修やMarkdownエディタとして
 - コミュニケーションツール
   - Basecamp、Backlog、Slack、Miro、esa、Qiita Team、notion
 - デザインツール (触ったことあり)
@@ -130,8 +135,8 @@
   - ネイティブ
 - 英語
   - TOEIC400前後(数年前)
-  - かんたんなメールのやり取り、聞き取りができる程度
-  - 絶賛勉強中
+  - かんたんな文章でのやり取り、聞き取りができる程度
+  - 勉強中
 
 ### 資格
 
@@ -302,6 +307,8 @@
 
 肩書としてはCTOやテックリード、またはVPoEが近いかなと思いますが、肩書にこだわらず会社の状況に合わせて幅広く対応できる人になりたいです。
 
+キャリアに対する明確な計画はあえて練らないようにしており、キャリアドリフトの思想で毎日を精一杯取り組んでいます💪
+
 #### ☆QOLをさらに充実させる  
 Quality of Lifeの充実について、年々考えるようになってきました。  
 自分自身がオタクであり、オタクコンテンツに関わりつつ、音楽活動もやりつつ、また、エンジニアとしてのスキルアップもやりつつ...  
@@ -325,3 +332,13 @@ Quality of Lifeの充実について、年々考えるようになってきま�
   - 社内でイベントや勉強会などが積極的に開かれているとよい
 - 成果がきちんと給料に反映される体系
   - お金は成長するためにも必要なので、出してくれると嬉しい
+
+<details><summary>参考:フリーランス時の条件目安</summary><div>
+
+- 準委任契約
+- フルリモート、もしくは週1出社程度を基本
+- 稼働時間は11時前後開始のフルタイム稼働を基本
+  - 副業参加の場合は夕方のみ、午後のみなど状況に応じて
+- 4000yen/hを下限、それ以上なら歓迎
+
+</div></details>
