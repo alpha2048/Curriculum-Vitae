@@ -14,6 +14,7 @@
 |Name|alpha2048(あるふぁ)|
 |Birth|1990/01/19|
 |Blog|https://alpha2048.hatenablog.com/|
+|X|https://twitter.com/alpha2048_dev|
 |Qiita|[https://qiita.com/alpha2048](https://qiita.com/alpha2048)|
 |Zenn|[https://zenn.dev/alpha2048](https://zenn.dev/alpha2048)|
 |Mail|alpha2048.jp@gmail.com|
