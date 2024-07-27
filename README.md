@@ -1,3 +1,10 @@
+こちらに移動しました。  
+https://alpha2048.notion.site/alpha2048-4d4021d26c154772aeeab680e1f86a68
+
+このリポジトリは折を見て削除します。
+
+<!---
+
 # 職務経歴書
 
 [こちらのオープン職務経歴書](https://github.com/okoysm/Curriculum-Vitae-template)を参考にしました。
@@ -343,3 +350,8 @@ Quality of Lifeの充実について、年々考えるようになってきま�
 - 4000yen/hを下限、それ以上なら歓迎
 
 </div></details>
+
+-->
+
+
+
